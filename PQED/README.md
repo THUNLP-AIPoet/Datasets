@@ -26,7 +26,7 @@ PQED is saved in JSON format. Each line is a poem. An example is as follows:
 ## 2. Cite
 If you use this corpus, please cite the following paper:
 
-Xiaoyuan Yi, Maosong Sun, Ruoyu Li, and Wenhao Li. 2018. Automatic Poetry Generation with Mutual Reinforcement Learning. In *Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing*, pages 3143–3153, Brussels, Belgium.
+Xiaoyuan Yi, Maosong Sun, Ruoyu Li, and Wenhao Li. 2018. Automatic Poetry Generation with Mutual Reinforcement Learning. In *Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing*, pages 3143–3153, Brussels, Belgium. \[[pdf](https://aclweb.org/anthology/D18-1353)\]
 
 bib format:
 ```
