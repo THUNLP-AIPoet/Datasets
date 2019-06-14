@@ -15,7 +15,7 @@ Each poem is annotated by at least two human experts. In PQED, we provide the av
 ### V0.1
 * Number of poems: 173
 * Provided criteria: fluency, coherence, meaningfulness and overall score
-* Genre of poetry: Chinese quatrain
+* The Genre of poetry: Chinese quatrain
 
 ## 1. Format
 PQED is saved in JSON format. Each line is a poem. An example is as follows:
