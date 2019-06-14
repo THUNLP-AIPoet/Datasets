@@ -7,5 +7,5 @@ We will keep improving existing datasets and release more sets in the future. An
 | Dataset | Version |
 |:---:|:---:|
 | [Poetry Quality Evaluation DataSet (PQED)](PQED/) | V0.1 |
-| [Fine-grained Sentimental Poetry Corpus (FSPC)](https://github.com/thunlp-poetry/Datasets/tree/master/FSPC) | V1.0 |
+| [Fine-grained Sentimental Poetry Corpus (FSPC)](FSPC/) | V1.0 |
 
