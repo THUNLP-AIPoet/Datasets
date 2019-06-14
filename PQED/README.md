@@ -5,9 +5,9 @@ PQED is a manually-annotated poetry quality dataset. Each poem is scored on a 5-
 * Fluency: are the lines of the poem fluent and well-formed?
 * Coherence: is the poem as a whole coherent in meaning and theme?
 * Meaningfulness: does the poem convey some certain messages?
-* overall score: the reader’s general impression on the poem.
+* Overall Score: the reader’s general impression on the poem.
 
-**Note**: The *overall score* is the general impression of the whole poem, instead of the sum or average score of the other three criteria.
+**Note**: The *Overall Score* is the general impression of the whole poem, instead of the sum or average score of the other three criteria.
 
 Each poem is annotated by at least two human experts. In PQED, we provide the average of the scores given by different experts on each criterion. Because such evaluation is subjective, it's hard to guarantee accuracy. We will keep improving this dataset and try to alleviate individual preference.
 
