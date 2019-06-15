@@ -11,19 +11,19 @@ PQED is a manually-annotated poetry quality dataset. Each poem is scored on a 5-
 
 Each poem is annotated by at least two human experts. In PQED, we provide the average of the scores given by different experts on each criterion. Because such evaluation is subjective, it's hard to guarantee accuracy. We will keep improving this dataset and try to alleviate individual preference.
 
-## 0. Statistics and Version
+## 1. Statistics and Version
 ### V0.1
 * Number of poems: 173
 * Provided criteria: fluency, coherence, meaningfulness and overall score
 * The Genre of poetry: Chinese quatrain (*Jueju*, 绝句)
 
-## 1. Format
+## 2. Format
 PQED is saved in JSON format. Each line is a poem. An example is as follows:
 
 ```
 {"poem": "渌水明秋月|南湖采白蘋|荷花娇欲语|愁杀荡舟人", "fluency": 4.0, "coherence": 4.0, "meaningfulness": 3.75, "overall score": 4.0}
 ```
-## 2. Cite
+## 3. Cite
 If you use this dataset, please cite the following paper:
 
 Xiaoyuan Yi, Maosong Sun, Ruoyu Li, and Wenhao Li. 2018. Automatic Poetry Generation with Mutual Reinforcement Learning. In *Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing*, pages 3143–3153, Brussels, Belgium. \[[pdf](https://aclweb.org/anthology/D18-1353)\]
