@@ -1,4 +1,4 @@
-THUNLP Poetry Datasets
+THUAIPoet Datasets
 ==========
 This repository provides datasets developed by THUAIPoet (九歌) group, Research Center for Natural Language Processing, Computational Humanities and Social Sciences, Tsinghua University. *All our datasets are for academic use only*.
 
