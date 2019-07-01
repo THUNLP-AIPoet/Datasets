@@ -1,8 +1,12 @@
 Fine-grained Sentimental Poetry Corpus (FSPC)
 ==========
-FSPC is a manually-labelled Fine-grained Sentiment Poetry Corpus. Each poem and each line is annotated into 5 classes, namely negative, implicit negative, neutral, implicit positive and positive.
+FSPC is a manually-labelled Fine-grained Sentiment Poetry Corpus. Each poem and each line is annotated into 5 classes, namely negative, implicit negative, neutral, implicit positive and positive. Details of the corpus please look into our paper.
 
-Details of the corpus please look into our paper.
+As the sentiment expression of Chinese classical poetry is often implicit, and sometimes the understanding varies from person to person,  it is difficult to have completely objective sentimental labels, although we adopted a reasonable annotation mechanism.
+
+We will continue to optimize and expand this data set.
+
+
 
 ## 1. Statistics and Version
 ### V1.0
