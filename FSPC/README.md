@@ -6,8 +6,6 @@ As the sentiment expression of Chinese classical poetry is often implicit, and s
 
 We will continue to optimize and expand this data set.
 
-
-
 ## 1. Statistics and Version
 ### V1.0
 * Number of poems: 5,000
@@ -30,7 +28,7 @@ FSPC is saved in JSON format. Each line is a poem. An example is as follows:
     "title":"晓雨二首"
 }
 ```
-Lines and sentiments in a poem are split by "|". Sentiments for each poem are listed in order: the holistic sentiment of whole poem | sentiment of the first line | sentiment of the second line | ... | sentiment of last line.
+Lines and sentiments in a poem are split by "|". Sentiments for each poem are listed in order: the holistic sentiment of whole poem | sentiment of the first line | sentiment of the second line | ... | sentiment of last line. The labels of setiments means  1: negative, 2:implicit negative, 3:neutral, 4:implicit positive and 5:positive 
 
 ## 3. Cite
 If you use this corpus, please cite the following paper:
