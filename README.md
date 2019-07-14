@@ -8,5 +8,3 @@ We will keep improving existing datasets and release more sets in the future. An
 |:---:|:---:|
 | [THU Poetry Quality Evaluation DataSet (THU-PQED)](PQED/) | V0.1 |
 | [THU Fine-grained Sentimental Poetry Corpus (THU-FSPC)](FSPC/) | V1.0 |
-| [THU Rhyme and Rhythm Data (THU-RRD)](RRD/) | V1.0 |
-
