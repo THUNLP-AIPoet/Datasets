@@ -21,14 +21,16 @@ FSPC is saved in JSON format. Each line is a poem. An example is as follows:
 
 ```
 {
-    "poet":"陆游",
-    "poem":"东 风 吹 雨 送 残 春|冉 冉 年 光 次 第 新|君 看 枝 头 如 许 绿|争 教 桃 李 不 成 尘",
-    "dynasty":"宋",
-    "setiments":"5|4|4|5|5",
-    "title":"晓雨二首"
+    "poet": "韦庄", 
+    "poem": "自有春愁正断魂|不堪芳草思王孙|落花寂寂黄昏雨|深院无人独倚门", 
+    "dynasty": "唐", 
+    "setiments": {"holistic": "1", "line1": "1", "line2": "1", "line3": "2", "line4": "2"}, 
+    "title": "春愁"
 }
 ```
-Lines and sentiments in a poem are split by "|". Sentiments for each poem are listed in order: the holistic sentiment of whole poem | sentiment of the first line | sentiment of the second line | ... | sentiment of last line. The labels of setiments represent  1: negative, 2:implicit negative, 3:neutral, 4:implicit positive and 5:positive 
+Lines and sentiments in a poem are split by "|". 
+
+Sentiments dict contains the holistic sentiment of whole poem, sentiment of the first line, ..., sentiment of the fourth line. The labels of setiments represent  1: negative, 2:implicit negative, 3:neutral, 4:implicit positive and 5:positive 
 
 ## 3. Cite
 If you use this corpus, please cite the following paper:
