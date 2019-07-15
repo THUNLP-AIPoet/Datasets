@@ -28,9 +28,7 @@ FSPC is saved in JSON format. Each line is a poem. An example is as follows:
     "title": "春愁"
 }
 ```
-Lines and sentiments in a poem are split by "|". 
-
-Sentiments dict contains the holistic sentiment of whole poem, sentiment of the first line, ..., sentiment of the fourth line. The labels of setiments represent  1: negative, 2:implicit negative, 3:neutral, 4:implicit positive and 5:positive 
+Lines and sentiments in a poem are split by "|". Sentiments dict contains the holistic sentiment of whole poem, sentiment of the first line, ..., sentiment of the fourth line. The labels of setiments represent  1: negative, 2:implicit negative, 3:neutral, 4:implicit positive and 5:positive 
 
 ## 3. Cite
 If you use this corpus, please cite the following paper:
