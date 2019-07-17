@@ -10,7 +10,6 @@ We will continue to optimize and expand this data set.
 ### V1.0
 * Number of poems: 5,000
 * Sentiment Classes: negative, implicit negative, neutral, implicit positive and positive
-* The Genre of poetry: Chinese quatrain (*Jueju*, 绝句)
 
 Detailed Statistics:
 ![image](../pictures/FSPC.jpg)
