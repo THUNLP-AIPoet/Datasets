@@ -1,6 +1,6 @@
 THUAIPoet Datasets
 ==========
-This repository provides datasets developed by THUAIPoet (九歌) group, Research Center for Natural Language Processing, Computational Humanities and Social Sciences, Tsinghua University. *All our datasets are released for academic use only*.
+This repository provides datasets developed by THUAIPoet (九歌) group, Research Center for Natural Language Processing, Computational Humanities and Social Sciences, Tsinghua University. **All our datasets are released for academic use only**.
 
 We will keep improving existing datasets and release more sets in the future. Any suggestions are welcome!
 
@@ -8,3 +8,4 @@ We will keep improving existing datasets and release more sets in the future. An
 |:---:|:---:|
 | [THU Poetry Quality Evaluation DataSet (THU-PQED)](PQED/) | V0.1 |
 | [THU Fine-grained Sentimental Poetry Corpus (THU-FSPC)](FSPC/) | V1.0 |
+| [THU Chinese Classical Poetry Corpus (THU-CCPC)](CCPC/) | V1.0 |
