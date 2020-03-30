@@ -3,7 +3,7 @@ THU Chinese Rhythm and Rhyme Data (THU-CRRD)
 CRRD contains the rhythm and rhyme data for the  phonological rules of Chinese poetry.  Please note that this dataset is incomplete now and we will keep improving it.
 
 ## 1. Files and Version
-### V1.0
+### V0.1
 * pingsheng.txt. The level-tone (平声) Chinese characters.
 * zesheng.txt. The oblique-tone (仄声) Chinese characters.
 * pingshui.txt. The pingsui rhyme category, in which the Chinese characters are categorized into to 30 rhyme classes.  Note that some polyphonic characters belong to multiple classes.
