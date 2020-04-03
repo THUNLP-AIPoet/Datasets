@@ -28,6 +28,6 @@ bib format:
     year    = "2019",
     pages   = "25--30",
     booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations},
-    address = {Florence, Italy}  
+    address = {Florence, Italy}
 }
 ```
