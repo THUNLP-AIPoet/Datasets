@@ -6,7 +6,7 @@ We will keep improving this dataset and adding more genres of poetry.
 
 ## 1. Statistics and Version
 ### V1.0
-* Number of poems:  Training 109,850; Validation  8,000; Testing: 10,000
+* Number of poems:  Training  109,727; Validation  7,979;  Testing:  9,976
 * The genre of poetry: quatrain (*Jueju*, 绝句)
 
 ## 2. Format
